@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pymongo
+transformers
+torch
+scikit-learn
+joblib
+python-dotenv
